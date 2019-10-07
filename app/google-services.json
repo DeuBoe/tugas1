@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "952544309044",
+    "firebase_url": "https://pertanahan-a59f2.firebaseio.com",
+    "project_id": "pertanahan-a59f2",
+    "storage_bucket": "pertanahan-a59f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952544309044:android:cc7850ae71a83c3260bf61",
+        "android_client_info": {
+          "package_name": "id.deuboe.tugas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952544309044-6638c9jaqj4jhqgf9f6a7f4c2o5dfj8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvUQUhyW9VbBZFpKhDZXUG4oiY-9vpVh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952544309044-6638c9jaqj4jhqgf9f6a7f4c2o5dfj8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
